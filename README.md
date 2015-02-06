@@ -1,6 +1,6 @@
 A desktop application to watch Wikipedia article creation, uses RCFeed, Node-webkit.
 
-Can be customized for wathing specific wikis or articles with certain properties.
+Can be customized for watching specific wikis or articles with certain properties.
 
 Optional desktop notification also included
 
